@@ -1,0 +1,64 @@
+Object classification using RGB color sensor
+--------------------------------------------
+Arduino Nano 33 BLE Sense running TensorFlow Lite Micro
+
+Blue 7%
+Green 0%
+Red 92%
+
+Blue 24%
+Green 1%
+Red 74%
+
+Blue 12%
+Green 0%
+Red 87%
+
+Blue 0%
+Green 0%
+Red 99%
+
+Blue 0%
+Green 0%
+Red 99%
+
+Blue 28%
+Green 70%
+Red 0%
+
+Blue 0%
+Green 98%
+Red 0%
+
+Blue 0%
+Green 98%
+Red 0%
+
+Blue 2%
+Green 96%
+Red 0%
+
+Blue 25%
+Green 74%
+Red 0%
+
+Blue 95%
+Green 4%
+Red 0%
+
+Blue 9%
+Green 90%
+Red 0%
+
+Blue 66%
+Green 27%
+Red 5%
+
+Blue 54%
+Green 45%
+Red 0%
+
+Blue 90%
+Green 9%
+Red 0%
+
